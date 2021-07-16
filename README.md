@@ -1,0 +1,1 @@
+# projetoHiringCoders.js
